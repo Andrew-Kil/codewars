@@ -5,7 +5,7 @@ with size 4 should return : '1010'.
 with size 12 should return : '101010101010'.
 The size will always be positive and will only use whole numbers. */
 function stringy(size) {
-  let newString = '';
+  let newString = "";
   for (let i = 1; i <= size; i++) {
     if (i % 2 === 0) {
       newString += 0;

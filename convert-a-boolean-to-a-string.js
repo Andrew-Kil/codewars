@@ -1,7 +1,7 @@
-function booleanToString(b){
+function booleanToString(b) {
   if (b === true) {
-    return 'true';
+    return "true";
   } else if (b === false) {
-    return 'false';
+    return "false";
   }
 }

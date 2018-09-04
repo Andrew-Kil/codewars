@@ -5,9 +5,9 @@ The only person who owns lightsabers is Zach, by the way. He owns 18, which is a
 No starting help here -- you'll need to know how to write a function that accepts a parameter and returns a value based on that parameter.*/
 
 function howManyLightsabersDoYouOwn(name) {
-  if (name === 'Zach') {
+  if (name === "Zach") {
     return 18;
   } else {
     return 0;
-    }
+  }
 }

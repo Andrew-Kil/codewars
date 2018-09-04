@@ -2,14 +2,14 @@
 //Ribonucleic acid, RNA, is the primary messenger molecule in cells. RNA differs slightly from DNA its chemical structure and contains no Thymine. In RNA Thymine is replaced by another nucleic acid Uracil ('U').
 //Create a funciton which translates a given DNA string into RNA.
 function DNAtoRNA(dna) {
-  let splitDna = dna.split('');
+  let splitDna = dna.split("");
   let finalArr = [];
   for (let i = 0; i < splitDna.length; i++) {
-    if (splitDna[i] === 'T') {
-      finalArr.push('U');
+    if (splitDna[i] === "T") {
+      finalArr.push("U");
     } else {
       finalArr.push(splitDna[i]);
     }
   }
-  return finalArr.join('');
+  return finalArr.join("");
 }

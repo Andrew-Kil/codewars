@@ -12,7 +12,8 @@ function betterThanAverage(classPoints, yourPoints) {
   let avgPoints = sumPoints / (classPoints.length + 1);
   if (avgPoints > yourPoints) {
     return false;
-  } if (avgPoints < yourPoints) {
+  }
+  if (avgPoints < yourPoints) {
     return true;
   }
 }

@@ -9,5 +9,5 @@ function abbrevName(name) {
   let secondInitial = "";
   firstInitial = splitName[0].charAt(0);
   secondInitial = splitName[1].charAt(0);
-  return firstInitial + "." + secondInitial;
+  return firstInitial.toUpperCase() + "." + secondInitial.toUpperCase();
 }

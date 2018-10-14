@@ -11,6 +11,5 @@ const createPhoneNumber = numbers => {
     partThree = [numbers[6], numbers[7], numbers[8], numbers[9]].join("");
   partOne = "(" + partOne + ") ";
   partTwo = partTwo + "-";
-  let finalNumber = partOne + partTwo + partThree;
-  return finalNumber;
+  return partOne + partTwo + partThree;
 };

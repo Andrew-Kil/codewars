@@ -1,8 +1,5 @@
-/* When provided with a number between 0-9, return it in words.
-Input :: 1
-Output :: "One".
-Try using "Switch" statements. */
-function switchItUp(number) {
+// www.codewars.com/kata/switch-it-up/train/javascript
+https: function switchItUp(number) {
   switch (number) {
     case 1:
       return "One";

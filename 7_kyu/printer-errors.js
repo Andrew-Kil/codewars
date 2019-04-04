@@ -2,8 +2,8 @@
 
 const printerError = s => {
   let numerator = 0;
-  let denominator = s.length;
-
+  const denominator = s.length;
+  const arrS = Array.from(s);
   const validColors = [
     "a",
     "b",
@@ -20,16 +20,11 @@ const printerError = s => {
     "m"
   ];
 
-  const arrS = Array.from(s);
-
-  let answer = "";
-
   for (let i = 0; i < arrS.length; i++) {
     if (!validColors.includes(arrS[i])) {
       numerator++;
     }
   }
 
-  answer = numerator + "/" + denominator;
-  return answer;
+  return numerator + "/" + denominator;
 };

@@ -1,5 +1,7 @@
 # codewars
 
-I am working my way through the Codewars JavaScript katas and these are my solutions. 
+These are my solutions, in JavaScript, to coding challenges on Codewars.
+
+https://www.codewars.com/users/likwerdna
 
 ![codewars stats](https://www.codewars.com/users/likwerdna/badges/large?logo=false)

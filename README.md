@@ -29,4 +29,4 @@ Honor represents the level of respect a user has earned from the community, base
 
 <a target="_blank" href=https://www.codewars.com/users/AndrewKil>My</a> current codewars rank:
 
-<a target="_blank" href=https://www.codewars.com/users/AndrewKil>![codewars stats](https://www.codewars.com/users/likwerdna/badges/large?logo=false)</a> 
+<a target="_blank" href=https://www.codewars.com/users/AndrewKil>![codewars stats](https://www.codewars.com/users/AndrewKil/badges/large?logo=false)</a> 

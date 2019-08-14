@@ -18,6 +18,8 @@ Ranks are used to indicate progression and difficulty. Code Warriors complete Ka
 
 Why the names Kyu and Dan? The terms are borrowed from a system in Japanese martial arts, which is in turn borrowed from the game of Go. Kyu (or Kyū) indicates the number of degrees away from master level (Dan). This is why they count downward. Once you reach master level, we count upward. Black belts in martial arts are Dan level.
 
+![CodeWars levels](https://i.imgur.com/Vm77XMv.png)
+
 ## Honor:
 
 Honor represents the level of respect a user has earned from the community, based on their skill and contributions. While ranks are an indication of your skill only, honor is an indication mostly of your activity and contributions.

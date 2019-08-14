@@ -1,6 +1,17 @@
 ![codewars image](https://camo.githubusercontent.com/1e840d7fa088dab67fd5431f4b42dca53ce61dcc/68747470733a2f2f7261772e6769746875622e636f6d2f726f68616e2d7061756c2f436f6465776172732d536f6c7574696f6e732f6d61737465722f636f6465776172732d6c6f676f2e6a7067)
 
-<i>From Codewars <a target="_blank" href="https://github.com/Codewars/codewars.com/wiki/About-Codewars"> Wiki </a></i>
+---
+
+<a target="_blank" href=https://www.codewars.com/users/AndrewKil>My</a> current codewars rank:
+
+<a target="_blank" href=https://www.codewars.com/users/AndrewKil>![codewars stats](https://www.codewars.com/users/AndrewKil/badges/large?logo=false)</a> 
+
+* This repo is organized by the rank of the Kata (a 6 Kyu Kata is more challenging than a 8 Kyu Kata).
+* The solutions are written in JavaScript.
+
+---
+
+<i>From Codewars <a target="_blank" href="https://github.com/Codewars/codewars.com/wiki/About-Codewars"> Wiki </a></i>:
 
 ## About:
 
@@ -23,12 +34,3 @@ Why the names Kyu and Dan? The terms are borrowed from a system in Japanese mart
 ## Honor:
 
 Honor represents the level of respect a user has earned from the community, based on their skill and contributions. While ranks are an indication of your skill only, honor is an indication mostly of your activity and contributions.
-
-------
-
-* This repo is organized by the rank of the Kata (a 6 Kyu Kata is more challenging than a 8 Kyu Kata).
-* The solutions are written in JavaScript.
-
-<a target="_blank" href=https://www.codewars.com/users/AndrewKil>My</a> current codewars rank:
-
-<a target="_blank" href=https://www.codewars.com/users/AndrewKil>![codewars stats](https://www.codewars.com/users/AndrewKil/badges/large?logo=false)</a> 

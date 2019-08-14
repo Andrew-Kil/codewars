@@ -27,6 +27,6 @@ Honor represents the level of respect a user has earned from the community, base
 * This repo is organized by the rank of the Kata (a 6 Kyu Kata is more challenging than a 8 Kyu Kata).
 * The solutions are written in JavaScript.
 
-<a target="_blank" href=https://www.codewars.com/users/likwerdna>My</a> current codewars rank:
+<a target="_blank" href=https://www.codewars.com/users/AndrewKil>My</a> current codewars rank:
 
-<a target="_blank" href=https://www.codewars.com/users/likwerdna>![codewars stats](https://www.codewars.com/users/likwerdna/badges/large?logo=false)</a> 
+<a target="_blank" href=https://www.codewars.com/users/AndrewKil>![codewars stats](https://www.codewars.com/users/likwerdna/badges/large?logo=false)</a> 

@@ -1,7 +1,3 @@
-let sum = 0;
+//www.codewars.com/kata/calculate-average/train/javascript
 
-for (let i = 1; i <= array.length; i++) {
-  debugger;
-  sum += array[i - 1];
-  return sum / array.length;
-}
+const find_average = arr => arr.reduce((a, b) => a + b, 0) / arr.length;

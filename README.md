@@ -6,9 +6,6 @@
 
 <a target="_blank" href=https://www.codewars.com/users/AndrewKil>![codewars stats](https://www.codewars.com/users/AndrewKil/badges/large?logo=false)</a> 
 
-* This repo is organized by the rank of the Kata (a 6 Kyu Kata is more challenging than a 8 Kyu Kata).
-* The solutions are written in JavaScript.
-
 ---
 
 <i>From Codewars <a target="_blank" href="https://github.com/Codewars/codewars.com/wiki/About-Codewars"> Wiki </a></i>:

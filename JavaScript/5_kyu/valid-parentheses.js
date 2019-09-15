@@ -1,15 +1,11 @@
 // https://www.codewars.com/kata/valid-parentheses/train/javascript
 
 const validParentheses = p => {
-  const stack = [];
-  const pHash = {
-    "(": ")",
-    "[": "]",
-    "{": "}"
-  };
-  for (let paren of p) {
-    if (pHash[paren]) stack.push(paren);
-    else if (pHash[stack.pop()] !== paren) return false;
+  let tracker = 0;
+  for (let char of p) {
+    if (char === "(") tracker++;
+    if (char === ")") tracker--;
+    if (tracker < 0) return false;
   }
-  return stack.length === 0;
+  return tracker === 0;
 };

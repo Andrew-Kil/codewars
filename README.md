@@ -2,32 +2,30 @@
 
 ---
 
-<a target="_blank" href=https://www.codewars.com/users/AndrewKil>My</a> current codewars rank:
-
-<a target="_blank" href=https://www.codewars.com/users/AndrewKil>![codewars stats](https://www.codewars.com/users/AndrewKil/badges/large?logo=false)</a> 
+Codewars is a platform similar to <a target="_blank" href="https://leetcode.com/">Leetcode</a> and <a target="_blank" href="https://www.hackerrank.com/">HackerRank</a>, with a community driven ecosystem where users submit and solve coding challenges to improve their coding skills.
 
 ---
 
-<i>From Codewars <a target="_blank" href="https://github.com/Codewars/codewars.com/wiki/About-Codewars"> Wiki </a></i>:
+## Kata
 
-## About:
+![Kata Example](assets/codewars-kata.png)
 
-Codewars is a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills. Think of it like a coding dojo - where developers train with each other and help each other get better through practice.
+This is an example of a codewars kata that was submitted by a user named xcthulhu where you are asked to write an algorithm that moves all of the zeros to the end while preserving the order of the other elements. The solution must pass all test cases in order to be accepted as a valid solution.
 
-## Kata:
+![Kata Solutions](assets/codewars-solutions.png)
 
-In our dojo, kata are code challenges focused on improving skill and technique. They are the main activity performed on the site. Some of these challenges train programming fundamentals, while others focus on complex problem solving. Others are puzzles meant to test your creative problem solving, while others are based on real world coding scenarios.
+Once the solution is accepted, the user is taken to a list of the highest rated solutions submitted by other users where you can learn different approaches to solving that kata and vote for your favorite solutions.
 
-Each kata is crafted for and by the community. The author (or Sensei) who created kata will initially include one or more languages to train in. Other Code Warriors later can "translate" the kata into additional languages.
+---
 
-## Ranks:
+<a target="_blank" href=https://www.codewars.com/users/AndrewKil><a target="_blank" href=https://www.codewars.com/users/AndrewKil>![codewars stats](https://www.codewars.com/users/AndrewKil/badges/large?logo=false)</a> </a>
 
-Ranks are used to indicate progression and difficulty. Code Warriors complete Kata which are assigned a rank, which in turn earns them a higher rank once they complete enough of them. There are two classes of ranks, Kyu and Dan. You begin with Kyu at level 8 and work your way down to level 1. Then you progress to Dan, where you work your way up from level 1 to level 8.
+---
 
-Why the names Kyu and Dan? The terms are borrowed from a system in Japanese martial arts, which is in turn borrowed from the game of Go. Kyu (or Kyū) indicates the number of degrees away from master level (Dan). This is why they count downward. Once you reach master level, we count upward. Black belts in martial arts are Dan level.
+![Kata Solutions](assets/codewars-github.png)
 
-![CodeWars levels](https://i.imgur.com/Vm77XMv.png)
+This repository stores solutions to katas that I have solved in primarily JavaScript. I'm currently in the process of cleaning up the files so that they are consistent and display:
 
-## Honor:
-
-Honor represents the level of respect a user has earned from the community, based on their skill and contributions. While ranks are an indication of your skill only, honor is an indication mostly of your activity and contributions.
+- [x] url link
+- [x] kata description
+- [x] kata solution

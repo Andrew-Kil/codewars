@@ -6,6 +6,10 @@ Codewars is a platform similar to <a target="_blank" href="https://leetcode.com/
 
 ---
 
+<a target="_blank" href=https://www.codewars.com/users/AndrewKil><a target="_blank" href=https://www.codewars.com/users/AndrewKil>![codewars stats](https://www.codewars.com/users/AndrewKil/badges/large?logo=false)</a> </a>
+
+---
+
 ## Kata
 
 ![Kata Example](assets/codewars-kata.png)
@@ -15,10 +19,6 @@ This is an example of a codewars kata that was submitted by a user named xcthulh
 ![Kata Solutions](assets/codewars-solutions.png)
 
 Once the solution is accepted, the user is taken to a list of the highest rated solutions submitted by other users where you can learn different approaches to solving that kata and vote for your favorite solutions.
-
----
-
-<a target="_blank" href=https://www.codewars.com/users/AndrewKil><a target="_blank" href=https://www.codewars.com/users/AndrewKil>![codewars stats](https://www.codewars.com/users/AndrewKil/badges/large?logo=false)</a> </a>
 
 ---
 

@@ -33,9 +33,9 @@
 //   [3, 0, 0, 4, 8, 1, 1, 7, 9]
 // ]); // => false
 
-const checkZeros = board => {
-  for (let i = 0; i < board.length; i++) {
-    if (board[i].includes(0)) return true;
+const doesBoardHaveZero = board => {
+  for (let row of board) {
+    if (row.includes(0)) return true;
   }
   return false;
 };
@@ -97,10 +97,8 @@ const checkBlocks = board => {
   return true;
 };
 
-const validSolution = board => {
-  if (checkZeros(board)) return false;
-  if (!checkRows(board)) return false;
-  if (!checkColumns(board)) return false;
-  if (!checkBlocks(board)) return false;
-  return true;
-};
+const validSolution = board =>
+  !doesBoardHaveZero(board) &&
+  checkRows(board) &&
+  checkColumns(board) &&
+  checkBlocks(board);

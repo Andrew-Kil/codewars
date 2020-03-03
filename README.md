@@ -14,7 +14,9 @@ Codewars is a platform similar to <a target="_blank" href="https://leetcode.com/
 
 ![Kata Example](assets/codewars-kata.png)
 
-This is an example of a codewars kata that was submitted by a user named xcthulhu where you are asked to write an algorithm that moves all of the zeros to the end while preserving the order of the other elements. The solution must pass all test cases in order to be accepted as a valid solution.
+This is an example of a codewars kata where you are asked to write an algorithm that moves all of the zeros to the end while preserving the order of the other elements. The solution must pass all test cases in order to be accepted as a valid solution.
+
+The katas are assigned a difficulty level (8 kyu is the easiest, 7 kyu is more difficult, etc).
 
 ![Kata Solutions](assets/codewars-solutions.png)
 

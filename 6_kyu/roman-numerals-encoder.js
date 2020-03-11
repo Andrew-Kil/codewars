@@ -40,7 +40,7 @@ const conversion = {
 const solution = num => {
   let result = "";
   while (num > 0) {
-    for (let key in Object.keys(conversion)) {
+    for (let key in conversion) {
       if (conversion[key] <= num) {
         result += key;
         num -= conversion[key];

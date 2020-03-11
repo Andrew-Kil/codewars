@@ -21,7 +21,7 @@
 
 // More about roman numerals - http://en.wikipedia.org/wiki/Roman_numerals
 
-const obj = {
+const conversion = {
   M: 1000,
   CM: 900,
   D: 500,
@@ -40,10 +40,10 @@ const obj = {
 const solution = num => {
   let result = "";
   while (num > 0) {
-    for (let x in obj) {
-      if (obj[x] <= num) {
-        result += x;
-        num -= obj[x];
+    for (let key in Object.keys(conversion)) {
+      if (conversion[key] <= num) {
+        result += key;
+        num -= conversion[key];
         break;
       }
     }

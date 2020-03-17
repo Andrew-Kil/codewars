@@ -31,12 +31,4 @@ This is an example of a codewars kata where you are asked to write an algorithm 
 
 Once the solution is accepted, the user is taken to a list of the highest rated solutions submitted by other users where you can learn different approaches to solving that kata and vote for your favorite solutions.
 
----
-
 ![Kata Solutions](assets/codewars-github.png)
-
-This repository stores solutions to katas that I have solved in primarily JavaScript. I'm currently in the process of cleaning up the files so that they are consistent and display:
-
-- [x] url link
-- [x] kata description
-- [x] kata solution

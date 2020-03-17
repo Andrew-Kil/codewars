@@ -4,6 +4,9 @@
     <a href="https://www.codewars.com/users/AndrewKil">
         <img src="https://www.codewars.com/users/AndrewKil/badges/micro"
             alt="Codewars Badge"></a>
+</p>
+
+<p align="center">
     <a href="https://github.com/prettier/prettier">
         <img src="https://img.shields.io/badge/code%20style-prettier-ff69b4?style=flat-square&logo=prettier"
             alt="Code Style: Prettier"></a>

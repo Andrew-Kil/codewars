@@ -15,11 +15,15 @@
             alt="Hit Count"></a>
 </p>
 
+---
+
 Codewars is a platform similar to <a target="_blank" href="https://leetcode.com/">Leetcode</a> and <a target="_blank" href="https://www.hackerrank.com/">HackerRank</a>, with a community driven ecosystem where users submit and solve coding challenges to improve their coding skills.
 
-## Kata
+<h2 align="center"><u>Kata</u></h2>
 
-<img src="assets/codewars-difficulty.png" width="200" height="100" />
+<p align="center">
+    <img src="assets/codewars-difficulty.png" width="200" height="100" />
+</p>
 
 Katas are assigned a difficulty level (8 kyu is the easiest, 7 kyu is more difficult, etc).
 

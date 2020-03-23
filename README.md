@@ -10,11 +10,11 @@
     <a href="https://github.com/prettier/prettier">
         <img src="https://img.shields.io/badge/code%20style-prettier-ff69b4?style=flat-square&logo=prettier"
             alt="Code Style: Prettier"></a>
-    <a href="https://img.shields.io/github/commit-activity/m/andrew-kil/codewars?style=flat-square">
-        <img src="https://img.shields.io/github/commit-activity/m/andrew-kil/codewars?style=flat-square&logo=github"
+    <a href="https://img.shields.io/github/commit-activity/m/andrew-kil/codewars">
+        <img src="https://img.shields.io/github/commit-activity/m/andrew-kil/codewars"
             alt="Commit Activity"></a>
-    <a href="http://hits.dwyl.com/andrew-kil/codewars">
-        <img src="http://hits.dwyl.com/andrew-kil/codewars.svg"
+    <a href="https://img.shields.io/github/last-commit/andrew-kil/codewars">
+        <img src="https://img.shields.io/github/last-commit/andrew-kil/codewars"
             alt="Hit Count"></a>
 </p>
 

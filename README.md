@@ -7,11 +7,14 @@
 </p>
 
 <p align="center">
+    <a href="https://img.shields.io/github/languages/top/andrew-kil/codewars?color=yellow">
+        <img src="https://img.shields.io/github/languages/top/andrew-kil/codewars?color=yellow"
+            alt="Code Style: Prettier"></a>
     <a href="https://github.com/prettier/prettier">
         <img src="https://img.shields.io/badge/code%20style-prettier-ff69b4?logo=prettier"
             alt="Code Style: Prettier"></a>
     <a href="https://img.shields.io/github/commit-activity/w/andrew-kil/codewars">
-        <img src="https://img.shields.io/github/commit-activity/w/andrew-kil/codewars"
+        <img src="https://img.shields.io/github/commit-activity/w/andrew-kil/codewars?logo=github"
             alt="Commit Activity"></a>
     <a href="https://img.shields.io/github/last-commit/andrew-kil/codewars">
         <img src="https://img.shields.io/github/last-commit/andrew-kil/codewars"

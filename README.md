@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/prettier/prettier">
-        <img src="https://img.shields.io/badge/code%20style-prettier-ff69b4?style=flat-square&logo=prettier"
+        <img src="https://img.shields.io/badge/code%20style-prettier-ff69b4?logo=prettier"
             alt="Code Style: Prettier"></a>
     <a href="https://img.shields.io/github/commit-activity/m/andrew-kil/codewars">
         <img src="https://img.shields.io/github/commit-activity/m/andrew-kil/codewars"

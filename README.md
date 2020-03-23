@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/code%20style-prettier-ff69b4?logo=prettier"
             alt="Code Style: Prettier"></a>
     <a href="https://img.shields.io/github/commit-activity/w/andrew-kil/codewars">
-        <img src="https://img.shields.io/github/commit-activity/w/andrew-kil/codewars?logo=github"
+        <img src="https://img.shields.io/github/commit-activity/w/andrew-kil/codewars"
             alt="Commit Activity"></a>
     <a href="https://img.shields.io/github/last-commit/andrew-kil/codewars">
         <img src="https://img.shields.io/github/last-commit/andrew-kil/codewars"

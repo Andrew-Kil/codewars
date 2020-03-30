@@ -22,26 +22,26 @@
 // numbers.even();    // must return [2, 4]
 // numbers.odd();     // must return [1, 3, 5]
 
-Array.prototype.square = function square() {
+Array.prototype.square = function() {
   return this.map(val => Math.pow(val, 2));
 };
 
-Array.prototype.cube = function cube() {
+Array.prototype.cube = function() {
   return this.map(val => Math.pow(val, 3));
 };
 
-Array.prototype.average = function average() {
-  return this ? this.reduce((acc, curr) => acc + curr, 0) / this.length : NaN;
+Array.prototype.average = function() {
+  return this ? this.sum() / this.length : NaN;
 };
 
-Array.prototype.sum = function sum() {
+Array.prototype.sum = function() {
   return this.reduce((acc, curr) => acc + curr, 0);
 };
 
-Array.prototype.even = function even() {
+Array.prototype.even = function() {
   return this.filter(val => val % 2 === 0);
 };
 
-Array.prototype.odd = function odd() {
+Array.prototype.odd = function() {
   return this.filter(val => val % 2 === 1);
 };

@@ -7,9 +7,12 @@
 </p>
 
 <p align="center">
+    <a href="https://img.shields.io/badge/Solutions-171-orange">
+        <img src="https://img.shields.io/badge/Solutions-171-orange"
+            alt="Solutions: 171"></a>
     <a href="https://img.shields.io/github/languages/top/andrew-kil/codewars?color=yellow">
         <img src="https://img.shields.io/github/languages/top/andrew-kil/codewars?color=yellow"
-            alt="Code Style: Prettier"></a>
+            alt="Language: JavaScript"></a>
     <a href="https://github.com/prettier/prettier">
         <img src="https://img.shields.io/badge/code%20style-prettier-ff69b4?logo=prettier"
             alt="Code Style: Prettier"></a>

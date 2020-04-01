@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-    <a href="https://img.shields.io/badge/solutions-172-orange">
-        <img src="https://img.shields.io/badge/solutions-172-orange"
-            alt="Solutions: 172"></a>
+    <a href="https://img.shields.io/badge/solutions-173-orange">
+        <img src="https://img.shields.io/badge/solutions-173-orange"
+            alt="Solutions: 173"></a>
     <a href="https://img.shields.io/github/languages/top/andrew-kil/codewars?color=yellow">
         <img src="https://img.shields.io/github/languages/top/andrew-kil/codewars?color=yellow"
             alt="Language: JavaScript"></a>

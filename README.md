@@ -7,18 +7,10 @@
 </p>
 
 <p align="center">
-    <a href="https://img.shields.io/badge/solutions-178-orange">
-        <img src="https://img.shields.io/badge/solutions-178-orange"
-            alt="Solutions: 178"></a>
-    <a href="https://img.shields.io/github/languages/top/andrew-kil/codewars?color=yellow">
-        <img src="https://img.shields.io/github/languages/top/andrew-kil/codewars?color=yellow"
-            alt="Language: JavaScript"></a>
-    <a href="https://github.com/prettier/prettier">
-        <img src="https://img.shields.io/badge/code%20style-prettier-ff69b4?logo=prettier"
-            alt="Code Style: Prettier"></a>
-    <a href="https://img.shields.io/github/last-commit/andrew-kil/codewars">
-        <img src="https://img.shields.io/github/last-commit/andrew-kil/codewars"
-            alt="Hit Count"></a>
+    <img src="https://img.shields.io/badge/solutions-184-orange" alt="Solutions: 184">
+    <img src="https://img.shields.io/github/languages/top/andrew-kil/codewars?color=yellow" alt="Language: JavaScript">
+    <img src="https://img.shields.io/badge/code%20style-prettier-ff69b4?logo=prettier" alt="Code Style: Prettier">
+    <img src="https://img.shields.io/github/last-commit/andrew-kil/codewars" alt="Last Commit">
 </p>
 
 ---

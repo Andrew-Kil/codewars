@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/solutions-193-orange" alt="Solutions: 193">
+    <img src="https://img.shields.io/badge/solutions-194-orange" alt="Solutions: 194">
     <!-- <img src="https://img.shields.io/github/languages/top/andrew-kil/codewars?color=yellow" alt="Language: JavaScript"> -->
     <img src="https://img.shields.io/badge/code%20style-prettier-ff69b4?logo=prettier" alt="Code Style: Prettier">
     <img src="https://img.shields.io/github/last-commit/andrew-kil/codewars" alt="Last Commit">

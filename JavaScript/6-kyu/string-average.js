@@ -6,7 +6,7 @@
 
 // If the string is empty or includes a number greater than 9, return "n/a"
 
-const obj = {
+const numsObj = {
   zero: 0,
   one: 1,
   two: 2,
@@ -19,13 +19,14 @@ const obj = {
   nine: 9,
 };
 
-const areNumsInRange = (nums) => nums.every((num) => obj[num] !== undefined);
+const isStrValid = (str) => str.every((num) => numsObj[num] !== undefined);
 
 const averageString = (str) => {
-  if (!str || !areNumsInRange(str.split(" "))) return "n/a";
-  const sum = str.split(" ").reduce((acc, cur) => acc + obj[cur], 0);
-  const avg = sum / str.split(" ").length;
+  const nums = str.split(" ");
+  const sum = nums.reduce((acc, cur) => acc + numsObj[cur], 0);
+  const avg = sum / nums.length;
   const flooredAvg = Math.floor(avg);
-  const idx = Object.values(obj)[flooredAvg];
-  return Object.keys(obj)[idx];
+  const idx = Object.values(numsObj)[flooredAvg];
+  const strAvg = Object.keys(numsObj)[idx];
+  return !str || !isStrValid(nums) ? "n/a" : strAvg;
 };

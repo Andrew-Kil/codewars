@@ -22,12 +22,12 @@
 const gps = (seconds, distances) =>
     distances.length <= 1 ? 0 : Math.floor(Math.max(...convertDistancesToSpeed(seconds, distances)))
 
-const calculateHourlySpeed = (speed, distance) => (3600 * distance) / speed;
+const calculateHourlySpeed = (seconds, distance) => (3600 * distance) / seconds;
 
-const convertDistancesToSpeed = (speed, distances) => {
+const convertDistancesToSpeed = (seconds, distances) => {
     return distances.reduce((acc, cur, idx) => {
         if (idx === 0) return acc
-        acc.push(calculateHourlySpeed(speed, cur - distances[idx - 1]))
+        acc.push(calculateHourlySpeed(seconds, cur - distances[idx - 1]))
         return acc
     }, [])
 }
